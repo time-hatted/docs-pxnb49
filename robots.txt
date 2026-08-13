@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-20b1zz.yoursingles.online/sitemap.xml
